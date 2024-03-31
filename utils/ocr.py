@@ -136,7 +136,7 @@ class text_keys:
         self.fate=fate
         self.interacts = ['黑塔', '区域', '事件', '退出', '沉浸', '紧锁', '复活', '下载', '模拟']
         self.fates = ["存护", "记忆", "虚无", "丰饶", "巡猎", "毁灭", "欢愉", "繁育", "智识"]
-        self.prior_bless = ['火堆外的夜']
+        self.prior_bless = ['景星助狩月', '加持']
         self.strange = []
         self.blesses = [[] for _ in range(9)]
         self.strange = ['福灵胶', '博士之袍', '陨石球', '降维骰子', '信仰债券', '时空棱镜', '朋克洛德', '香涎干酪',
